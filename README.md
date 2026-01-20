@@ -38,7 +38,8 @@ I believe in continuous learning, which is why I am simultaneously pursuing degr
 ---
 
 ### :zap: Actividad reciente :zap:
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ### 📫 Connect with me
 
