@@ -37,6 +37,9 @@ I believe in continuous learning, which is why I am simultaneously pursuing degr
 
 ---
 
+### :zap: Actividad reciente :zap:
+
+
 ### 📫 Connect with me
 
 <p align="center">
